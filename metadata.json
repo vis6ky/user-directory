@@ -1,0 +1,6 @@
+
+{
+  "name": "UserDirectory Pro",
+  "description": "A high-performance mock API explorer with paginated lists, advanced filtering by nationality and age, and full-text search capabilities across user profiles and hobbies.",
+  "requestFramePermissions": []
+}
